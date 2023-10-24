@@ -14,6 +14,8 @@ Our project DVD quantifies the value generated from the video industry through t
 
 **Team Member:**
 
+Team details websit: [bewater campaigns](https://build.bewater.xyz/en/campaigns/62/teams/1010)
+
 [@NavaFee](https://github.com/NavaFee) 
 
 [@trenlinhuang](https://github.com/trenlinhuang)
@@ -21,6 +23,12 @@ Our project DVD quantifies the value generated from the video industry through t
 [@booker](https://github.com/bookerhuang)
 
 [@LilyWest](https://github.com/lilywest2022)
+
+**Competition website**：
+
+[2023ETH-HongKong-Hackathon](https://build.bewater.xyz/en/campaigns/mUwy-2023ETH-HongKong-Hackathon)
+
+
 
 ## Problem Statement
 
